@@ -2,7 +2,7 @@ Letter Guess Game
 
 Applicaiton created in JavaScript
 
-Requirement:
+Requirements:
 * Random letter generated but not displayed to the user
 * User selects any letter and applicaiton verifies if the users selection matches the random selection
 * Application notifies user if their selection matches the random letter or not
